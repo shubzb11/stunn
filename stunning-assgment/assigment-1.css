@@ -47,12 +47,13 @@ body{
  margin-left:35px;
  margin-right: 35px;
 
+}
+.nav ol li a{
 
- 
- 
- 
- }
- .nav > ol li:hover{
+    text-decoration: none;
+    color:black;
+}
+ .nav > ol li a:hover{
 line-height: 10px;
      color: #0b060b;
      text-decoration: underline #5243c0 solid 3px;
